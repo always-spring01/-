@@ -8,3 +8,5 @@
 
 2023.01.20
 - 344 . Reverse String.py
+- 937 . Recorder Log Files.py
+- 819 . Most Common Words.py
