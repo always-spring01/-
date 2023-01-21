@@ -12,3 +12,11 @@
 - 819 . Most Common Words.py
 - 49 . Group Anagrams.py
 - 5 . Longest Palindrome Substring.py
+
+2023.01.21
+- 1 . Two Sum.py
+- 42 . Trapping RainWater.py
+- 15 . 3Sum.py
+- 561 . Array Partition I.py
+- 238 . Product of Array Except Self.py
+- 121 . Best Time to Buy and Sell Stock.py
